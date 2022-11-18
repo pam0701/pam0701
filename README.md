@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Van%20klaus&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Tech%20makes%20better%20world%&descAlignY=51&descAlign=62)
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />	
+<!-- 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" /> -->
+	![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Van%20klaus&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Tech%20makes%20better%20world%&descAlignY=51&descAlign=62)
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
